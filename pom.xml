@@ -5,7 +5,7 @@
 
 	<groupId>br.fatecsp.engsw3</groupId>
 	<artifactId>battleship</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0</version>
 	<packaging>jar</packaging>
 
 	<name>battleship</name>
